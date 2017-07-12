@@ -1,5 +1,5 @@
-Naeem Hossain
---------April 2, 2016--------
-HackNY--------
+Dominic Wardslaus - Rubhabha
+--------July 2017--------
+ 
 Tetris game for use with block physics
 
